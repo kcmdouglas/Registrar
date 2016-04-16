@@ -6,6 +6,7 @@
 
 ## Description
 
+This app mimics the functionality of a university registrar. Not only can users register students, but also see what classes they have registered into, as well as listing new courses. This code is primarily an exercize in using SQL and making SQL queries.
 
 ## Technologies Used
 
